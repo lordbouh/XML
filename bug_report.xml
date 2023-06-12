@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="windows-1251"?>  
+<bug_report>  
+<id>1</id>  
+<severity>low</severity>  
+<title>link [apply] doesn't send the form</title>  
+<STR>1.Open link below the main page, 2. Fill in form data: Name, e-mail, 3.Click [Apply] button</STR>  
+<ER>Form sent</ER>  
+<AR>Nothing goes after click</AR>  
+<Environment>Windows 10 Pro, Google Chrome 114.0</Environment>  
+<Attachments>Screencast_1</Attachments>  
+<Comment>Null</Comments>  
+</<bug_report>  
